@@ -10,7 +10,7 @@ Hello, I'm Momina Aziz
 # My Projects
 
 - Project 1: Personal Website / Portfolio
-- Project 2: Personal AI assistant.
+
 
 
 
