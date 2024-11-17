@@ -4,8 +4,8 @@ Hello, I'm Momina Aziz
 
 - Software Engineering 
 - Studying Computer Science at NEIU
-- Currently working on Personal AI assistant
--  I’m currently learning Java and Discrete Math
+- Currently working on Personal Website / Portfolio
+-  I’m currently learning SQL, MySQL, Database management system. 
 
 # My Projects
 
