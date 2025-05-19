@@ -10,6 +10,7 @@ Hello, I'm Momina Aziz
 # My Projects
 
 - Project 1: Personal Website / Portfolio
+- Project 2: Cottagecore Quiz / UI/UX - https://maziz6.github.io/cottagecore-quiz/
 
 
 
