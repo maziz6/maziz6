@@ -5,7 +5,7 @@ Hello, I'm Momina Aziz
 - Software Engineering 
 - Studying Computer Science at NEIU
 - Currently working on Personal Website / Portfolio
--  I’m currently learning SQL, MySQL, Database management system. 
+-  I’m currently learning Computer organization, Intro to design of Algorithms, and Intro to Natural language processor.
 
 # My Projects
 
